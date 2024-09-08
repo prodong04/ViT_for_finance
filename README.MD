@@ -6,3 +6,24 @@ This is the first-week assignment for the YBIGTA Data Science session (24-2 seme
 Learn how to preprocess and handle time-series data for financial asset prediction.
 Implement Vision Transformer (ViT) and Convolutional Neural Networks (CNN) for the prediction of asset prices and their direction.
 Understand the architecture of both ViT and CNN models and how they can be applied to time-series data.
+
+## Directory Details:
+24-2_DS_assignment/
+│
+└── week1/
+    │
+    ├── ViT_for_finance/
+    │   ├── architectures/
+    │   │   └── (Files related to model architectures)
+    │   │
+    │   ├── ETF/
+    │   │   └── (Data or scripts related to ETFs)
+    │   │
+    │   ├── utils/
+    │   │   └── (Utility scripts or functions)
+    │   │
+    │   ├── eval.py         # Script for model evaluation
+    │   ├── README.MD       # Project documentation and instructions
+    │   ├── requirements.txt # List of necessary Python packages
+    │   ├── report.pdf 
+    │   └── train.py        # Script for training the models
